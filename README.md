@@ -1,6 +1,4 @@
-php1h
+TakaraHunter
 =====
 
-Slides y ejemplos de una pequeña charla sobre PHP
-
-Puedes ver la presentación en http://jesusnoseq.github.com/php1h/#/
+Presentación sobre un proyecto web que usa Google maps.
